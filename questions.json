@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the output of print(2 ** 3)?",
+    "options": ["6", "8", "9", "12"],
+    "correct_answer": "8"
+  },
+  {
+    "question": "Which of the following is a mutable data type in Python?",
+    "options": ["Tuple", "String", "List", "Integer"],
+    "correct_answer": "List"
+  },
+  {
+    "question": "How do you define a function in Python?",
+    "options": ["func myFunc():", "def myFunc():", "function myFunc():", "define myFunc():"],
+    "correct_answer": "def myFunc():"
+  },
+  {
+    "question": "What keyword is used to handle exceptions in Python?",
+    "options": ["catch", "except", "error", "handle"],
+    "correct_answer": "except"
+  },
+  {
+    "question": "Which of the following is not a valid variable name in Python?",
+    "options": ["my_var", "_myvar", "2nd_var", "myVar2"],
+    "correct_answer": "2nd_var"
+  },
+  {
+    "question": "What does the len() function do?",
+    "options": ["Returns the type of an object", "Returns the size or length of an object", "Returns the memory address of an object", "Returns the maximum value in an object"],
+    "correct_answer": "Returns the size or length of an object"
+  },
+  {
+    "question": "How do you insert an element at a specific index in a list?",
+    "options": ["list.add()", "list.insert()", "list.append()", "list.put()"],
+    "correct_answer": "list.insert()"
+  },
+  {
+    "question": "Which operator is used for floor division in Python?",
+    "options": ["/", "//", "%", "**"],
+    "correct_answer": "//"
+  },
+  {
+    "question": "What is the correct extension for a Python file?",
+    "options": [".pt", ".pyt", ".py", ".pyth"],
+    "correct_answer": ".py"
+  },
+  {
+    "question": "How do you start a comment in Python?",
+    "options": ["//", "/*", "<!--", "#"],
+    "correct_answer": "#"
+  },
+  {
+    "question": "Which method can be used to remove any whitespace from both the beginning and the end of a string?",
+    "options": ["trim()", "strip()", "len()", "replace()"],
+    "correct_answer": "strip()"
+  },
+  {
+    "question": "What is the output of bool(\"False\")?",
+    "options": ["True", "False", "Error", "None"],
+    "correct_answer": "True"
+  },
+  {
+    "question": "How do you create a dictionary in Python?",
+    "options": ["{}", "[]", "()", "<>"],
+    "correct_answer": "{}"
+  },
+  {
+    "question": "Which of these collections defines a SET in Python?",
+    "options": ["{\"name\": \"John\", \"age\": 36}", "[\"apple\", \"banana\", \"cherry\"]", "(\"apple\", \"banana\", \"cherry\")", "{\"apple\", \"banana\", \"cherry\"}"],
+    "correct_answer": "{\"apple\", \"banana\", \"cherry\"}"
+  },
+  {
+    "question": "What is the purpose of the 'self' keyword in Python?",
+    "options": ["It represents the class itself.", "It is used to access class methods.", "It represents the instance of the class.", "It is a built-in function."],
+    "correct_answer": "It represents the instance of the class."
+  },
+  {
+    "question": "Which statement is used to stop a loop?",
+    "options": ["exit", "stop", "break", "return"],
+    "correct_answer": "break"
+  },
+  {
+    "question": "What is the correct way to import a module named 'math'?",
+    "options": ["import math", "include math", "using math", "require math"],
+    "correct_answer": "import math"
+  },
+  {
+    "question": "Which built-in function returns a sequence of numbers, starting from 0 by default, and increments by 1?",
+    "options": ["range()", "seq()", "numbers()", "list()"],
+    "correct_answer": "range()"
+  },
+  {
+    "question": "What is the default return value of a function that doesn't explicitly return anything?",
+    "options": ["0", "False", "None", "Null"],
+    "correct_answer": "None"
+  },
+  {
+    "question": "Which method adds an item to the end of a list?",
+    "options": ["add()", "insert()", "push()", "append()"],
+    "correct_answer": "append()"
+  },
+  {
+    "question": "What is the output of print(type([]))?",
+    "options": ["<class 'list'>", "<class 'tuple'>", "<class 'dict'>", "<class 'set'>"],
+    "correct_answer": "<class 'list'>"
+  },
+  {
+    "question": "How do you get the value of a key 'age' in a dictionary 'person'?",
+    "options": ["person.age", "person['age']", "person.get_age()", "person.value('age')"],
+    "correct_answer": "person['age']"
+  },
+  {
+    "question": "Which operator is used to check if a value exists in a sequence?",
+    "options": ["exists", "inside", "in", "has"],
+    "correct_answer": "in"
+  },
+  {
+    "question": "What does the 'pass' statement do?",
+    "options": ["Skips to the next iteration of a loop", "Exits the program", "Does nothing, acts as a placeholder", "Returns True"],
+    "correct_answer": "Does nothing, acts as a placeholder"
+  },
+  {
+    "question": "Which of the following is a correct way to open a file for reading in Python?",
+    "options": ["open('file.txt', 'r')", "read('file.txt')", "file('file.txt', 'read')", "open('file.txt')"],
+    "correct_answer": "open('file.txt', 'r')"
+  },
+  {
+    "question": "What is the output of 3 * 'A' in Python?",
+    "options": ["3A", "AAA", "Error", "A A A"],
+    "correct_answer": "AAA"
+  },
+  {
+    "question": "Which of the following functions converts a string to a lowercase string?",
+    "options": ["lower()", "lowercase()", "to_lower()", "down()"],
+    "correct_answer": "lower()"
+  },
+  {
+    "question": "What is the purpose of the 'yield' keyword?",
+    "options": ["To pause a function and return an intermediate result (creates a generator)", "To stop a function and return a final result", "To skip an iteration in a loop", "To import a module"],
+    "correct_answer": "To pause a function and return an intermediate result (creates a generator)"
+  },
+  {
+    "question": "How do you declare a global variable inside a function?",
+    "options": ["var x", "global x", "window.x", "extern x"],
+    "correct_answer": "global x"
+  },
+  {
+    "question": "What is a lambda function in Python?",
+    "options": ["A multi-line function", "A built-in class", "An anonymous, single-line function", "A function that imports modules"],
+    "correct_answer": "An anonymous, single-line function"
+  }
+]
